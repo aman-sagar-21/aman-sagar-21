@@ -5,9 +5,7 @@
 - 📫 How to reach me? My official email id is amansagarprasad2001@gmail.com. 
 - You can also connect to me on instagram, linkedin and twitter.
 
-<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href=”https://www.instagram.com/aman.sagar.2001/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-<a href=”https://twitter.com/thisisvillegas">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+- <a href="https://www.linkedin.com/in/">LinkedIn</a>&nbsp;<a href="https://www.instagram.com/aman.sagar.2001/">Instagram</a>&nbsp;<a href="https://twitter.com/amansagar_">Twitter </a>
 
 
 
