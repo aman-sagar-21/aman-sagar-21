@@ -5,7 +5,7 @@
 - 📫 How to reach me? My official email id is amansagarprasad2001@gmail.com. 
 - You can also connect to me on instagram, linkedin and twitter.
 
-- <a href="https://www.linkedin.com/in/">LinkedIn</a>&nbsp;<a href="https://www.instagram.com/aman.sagar.2001/">Instagram</a>&nbsp;<a href="https://twitter.com/amansagar_">Twitter </a>
+- <a target=_blank href="https://www.linkedin.com/in/">LinkedIn</a>&nbsp;<a target=_blank href="https://www.instagram.com/aman.sagar.2001/">Instagram</a>&nbsp;<a target=_blank href="https://twitter.com/amansagar_">Twitter </a>
 
 
 
