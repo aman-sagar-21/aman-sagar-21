@@ -3,9 +3,9 @@
 - 👀 I’m interested in Web Development, Data Science and Artificial Intelligence.
 - 🌱 I’m currently learning Data Structures, React.js and Angular.js.
 - 📫 How to reach me? My official email id is amansagarprasad2001@gmail.com. 
-- You can also connect to me on instagram, linkedin and twitter.
+- You can also connect with me on <a target="_blank" href="https://www.linkedin.com/in/aman-sagar-444860193/">LinkedIn</a>&nbsp;<a target="_blank" href="https://www.instagram.com/aman.sagar.2001/">Instagram</a>&nbsp;<a target="_blank" href="https://twitter.com/amansagar_">Twitter</a>.
 
-- <a target="_blank" href="https://www.linkedin.com/in/aman-sagar-444860193/">LinkedIn</a>&nbsp;<a target="_blank" href="https://www.instagram.com/aman.sagar.2001/">Instagram</a>&nbsp;<a target="_blank" href="https://twitter.com/amansagar_">Twitter </a>
+  
 
 
 
